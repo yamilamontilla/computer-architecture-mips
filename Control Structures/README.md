@@ -1,6 +1,6 @@
 # Control Structures
 
-This folder contains programs that illustrate common control flow techniques, including loops, conditional branching, and arithmetic operations. The exercises focus on implementing algorithmic logic efficiently using MIPS Assembly instructions.
+Contains programs that illustrate common control flow techniques, including loops, conditional branching, and arithmetic operations. The exercises focus on implementing algorithmic logic efficiently using MIPS Assembly instructions.
 
 ## Programs Included
 
