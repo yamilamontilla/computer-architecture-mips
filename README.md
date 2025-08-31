@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive collection of MIPS Assembly programs developed for the Computer Architecture course. Each project explores fundamental topics in low-level programming, including code optimization, control structures, integer and floating-point operations, arrays, and string manipulation.  
 
-The goal of this repository is to provide a centralized reference for understanding MIPS assembly concepts while demonstrating practical applications and efficient problem-solving techniques. These projects also serve as a portfolio showcase of my proficiency in low-level programming and computer architecture principles.
+The goal of this repository is to provide a centralized reference for understanding MIPS assembly concepts while demonstrating practical applications and efficient problem-solving techniques.
 
 ## Tech Stack
 
