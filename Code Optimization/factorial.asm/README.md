@@ -1,6 +1,6 @@
 # Code Optimization
 
-This folder focuses on efficient computation of factorials using iterative and procedural techniques. The programs demonstrate how to implement arithmetic operations with minimal instructions, manage registers effectively, and structure loops and function calls for optimized performance.
+Focuses on efficient computation of factorials using iterative and procedural techniques. The programs demonstrate how to implement arithmetic operations with minimal instructions, manage registers effectively, and structure loops and function calls for optimized performance.
 
 ## Programs Included
 
